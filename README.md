@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working for [Westpoint Software Solutions](https://westpoint.io)
 
-- 🌱 I’m currently learning **Flutter and Go**
+- 🌱 I’m currently learning **Rust and Swift**
 
 - 👯 I’m looking to collaborate on [AWS CDK](https://github.com/aws/aws-cdk)
 
 - 👨‍💻 All of my projects are available at [https://ruivalim.com.br](https://ruivalim.com.br)
 
-- 💬 Ask me about **aws, devops and anything you want**
+- 💬 Ask me about **aws, devops or anything you want**
 
 - 📫 How to reach me **r.valim.junior@gmail.com**
 
